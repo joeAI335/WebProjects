@@ -1,0 +1,25 @@
+.name {
+	margin: 10px 100px 10px 10px;
+	font-style: oblique;
+}
+
+
+.image {
+	margin: 10px 10px 10px 10px;
+	max-width: 400px;
+	max-height: 400px;
+}
+
+.subtitle {
+	margin-top: 50px;
+	font-style: normal;
+	display: flex-wrap;
+	color: grey;
+}
+
+.textlayout {
+	margin: 0px 0px 0px 300px
+}
+
+
+
